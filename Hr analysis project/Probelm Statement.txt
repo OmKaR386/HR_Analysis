@@ -1,0 +1,3 @@
+
+**Problem Statement:**
+The organization is facing a rising trend in employee attrition, which has impacted workforce stability and increased recruitment costs. The objective of this analysis is to identify key factors contributing to employee turnover, such as job satisfaction, compensation, work-life balance, and career development opportunities. By leveraging Power BI to visualize these trends, HR can gain insights into at-risk employee groups and develop strategies to enhance employee retention, reduce attrition, and improve overall workplace satisfaction.
